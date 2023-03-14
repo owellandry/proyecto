@@ -62,8 +62,7 @@ body {
     align-items: center;
     justify-content: space-between;
   }
-  .landingpage .footer2 {
-    padding-bottom: 30px;
+  .landingpage .footer2 { 
     border-top: 1px solid #F2F2F2;
   }
   
