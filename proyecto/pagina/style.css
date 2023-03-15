@@ -910,3 +910,16 @@ body {
   .navlinkwrap{
     font-family: Arial, sans-serif !important;
   }
+
+  .divdos{
+    width: 150px;
+    border-radius: 25px;
+  }
+
+  .div3{
+    margin-top: 100px;
+    display: grid;
+    grid-template-columns: repeat(5,1fr);
+    gap: 3rem;
+    margin-bottom: 200px;
+  }
